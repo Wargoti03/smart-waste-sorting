@@ -10,3 +10,9 @@ Guidance on PyTorch implementation
 Improving inference analysis
 
 The final implementation, testing, and evaluation were completed and verified manually.
+
+Additional AI usage:
+
+Claude
+GitHub Copilot
+Cursor
