@@ -1,0 +1,12 @@
+AI Usage Summary
+
+ChatGPT and Gemini were used for:
+
+Debugging notebook errors
+Improving dataset loading
+Explaining model evaluation
+Assistance with README and documentation
+Guidance on PyTorch implementation
+Improving inference analysis
+
+The final implementation, testing, and evaluation were completed and verified manually.
