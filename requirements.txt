@@ -1,0 +1,15 @@
+Repository Structure
+SmartWasteSorting/
+├── README.md
+├── requirements.txt
+├── notebooks/
+├── data/
+├── models/
+│   └── trained/
+├── results/
+│   ├── images/
+│   └── visualizations/
+├── docs/
+│   ├── inference_report.md
+│   └── AI_usage_log.md
+└── presentation/
